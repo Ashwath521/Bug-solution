@@ -1,0 +1,6 @@
+
+  useEffect(() => {
+    setFieldValue("providerName", `${edit?.providerName}`);
+    setFieldValue("companyName", `${edit?.companyName}`);
+    setFieldValue("email", `${edit?.email}`);
+  }, [edit, setFieldValue, latestData]);
