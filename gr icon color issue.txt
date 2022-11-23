@@ -1,0 +1,3 @@
+.className path {
+  stroke: rgb(31, 150, 129);
+}

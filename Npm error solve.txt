@@ -1,0 +1,8 @@
+npm ERR! code ERESOLVE
+npm ERR! ERESOLVE unable to resolve dependency tree
+npm ERR! Could not resolve dependency:
+npm ERR! Fix the upstream dependency conflict, or retry
+npm ERR! this command with --force, or --legacy-peer-deps
+
+Solution
+npm config set legacy-peer-deps true

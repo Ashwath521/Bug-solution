@@ -1,0 +1,3 @@
+https://dev.to/dheerajmurali/building-a-responsive-chart-in-react-with-plotly-js-4on8
+
+https://betterprogramming.pub/data-visualization-with-react-plotly-2ebe6b0cb14
