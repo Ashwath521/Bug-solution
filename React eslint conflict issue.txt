@@ -1,0 +1,1 @@
+https://dev.to/iamatifriaz/how-to-fix-error-in-plugin-react-was-conflicted-between-packagejson-and-eslint-config-react-app-365d
