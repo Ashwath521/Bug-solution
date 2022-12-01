@@ -1,0 +1,8 @@
+	        ERROR
+package name: (redux-toolkit-demo) npm init
+Sorry, name can only contain URL-friendly characters.
+
+               Solution
+change the project name into small letter
+then run npm init --yes command
+https://stackoverflow.com/questions/48107455/name-can-only-contain-url-friendly-characters
