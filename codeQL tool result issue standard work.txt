@@ -1,0 +1,8 @@
+code standard work
+ Vimp point
+SQL database query built from user-controlledsources (experimental)&NoSQL database query built from user-controlledsources (experimental)
+ issue is related to url it's pointining to extracting the url with use params hook.
+solution :- we need to keep it like this no need of changing anything it's pointning something express js
+
+Client-side cross-site scripting (experimental)
+solution :- exsiting implementaion is fine windows.location it's good for cross browser vuernability

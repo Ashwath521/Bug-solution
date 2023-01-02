@@ -1,0 +1,8 @@
+kent odds
+https://kentcdodds.com/blog?q=react
+Mark erikson
+https://blog.isquaredsoftware.com/about/
+ryan florence
+https://medium.com/@ryanflorence
+React Docs
+https://reactjs.org/blog/2022/06/15/react-labs-what-we-have-been-working-on-june-2022.html

@@ -1,0 +1,4 @@
+spot history  that function give current market trends from open fxapi.
+fx movement its a function we can compare multiple currencies against each other.
+fwd Efficeceny simmilar function of fx movement but here selling base and buying base 
+it provides the fwd efficeiny for particular transaction
